@@ -4,7 +4,7 @@
 
 ```
 nerfstudio
-COLPMAP
+COLMAP
 ```
 
 ## 数据集
